@@ -1,4 +1,4 @@
-# Touch Tech
+# TkTk
 Delete Account steps  
 1: Enter profile page  
 2: Open Edit profile page  
